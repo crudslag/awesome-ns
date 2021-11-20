@@ -6,13 +6,13 @@
 
 Qiita: https://qiita.com/organizations/nnn-school
 
-* ![Portfolio](https://github.com/crudslag/awesome-ns#portfolio)
-* Tech Blog
-* Mobile
+* [Portfolio](#portfolio)
+* [Tech Blog](#Tech-Blog)
+* [Mobile](#Mobile)
   * iOS
   * Android
   * Multiplatform
-* Web
+* [Web](#Web)
 
 ## Portfolio
 
