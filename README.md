@@ -6,7 +6,7 @@
 
 Qiita: https://qiita.com/organizations/nnn-school
 
-* Portfolio
+* ![Portfolio](https://github.com/crudslag/awesome-ns#portfolio)
 * Tech Blog
 * Mobile
   * iOS
@@ -54,3 +54,9 @@ Qiita: https://qiita.com/organizations/nnn-school
 | sizumita | https://about.sumidora.com/ | https://github.com/sizumita/portfolio |
 | JW.Unknown | https://kazusite.github.io/aboutme/ | https://github.com/Kondo-Kazushi/Kondo-kazushi.github.io |
 
+
+## Tech Blog
+
+## Mobile
+
+## Web
