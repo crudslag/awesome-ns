@@ -18,6 +18,7 @@ Qiita: https://qiita.com/organizations/nnn-school
 
 | name | Link | Source code |
 | --- | --- | --- |
+| BIG亀さん | http://bit.do/pepsiman-yrsmj  | https://github.com/Chatani-bigkyo/Pepsiman-yrsmj |
 | uehr | https://www.uehr.co/ | https://github.com/uehr/uehr.github.io |
 | waricoma | https://www.wantedly.com/id/motone_adachi |  |
 | Barisaku | https://www.wantedly.com/id/barisaku |  |
